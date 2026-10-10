@@ -1,0 +1,5 @@
+These outputs are generated from synthetic demo data, not real company customers.
+Demo rows: 400
+Baseline K: 5
+Silhouette score: 0.298
+Use the dashboard to rerun clustering with different features and K values.
